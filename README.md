@@ -12,4 +12,4 @@ This repository contains various Data Science & Machine Learning codes that I ha
 
 (05) k means clustering
 
-(06) Pricipal Component Analysis (PCA)
+(06) Principal Component Analysis (PCA)
