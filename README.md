@@ -13,3 +13,5 @@ This repository contains various Data Science & Machine Learning codes that I ha
 (05) k means clustering
 
 (06) Principal Component Analysis (PCA)
+
+(07) Support Vector Machines
