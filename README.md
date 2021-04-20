@@ -9,3 +9,7 @@ This repository contains various Data Science & Machine Learning codes that I ha
 (03) k-nearest neighbor
 
 (04) Decision Trees and Random Forests
+
+(05) k means clustering
+
+(06) Pricipal Component Analysis (PCA)
