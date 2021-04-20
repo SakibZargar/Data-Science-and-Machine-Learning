@@ -7,3 +7,5 @@ This repository contains various Data Science & Machine Learning codes that I ha
 (02) Linear Regression and Logistic Regression
 
 (03) k-nearest neighbor
+
+(04) Decision Trees and Random Forests
